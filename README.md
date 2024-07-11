@@ -1,4 +1,6 @@
 ## Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=AGE-00&count_private=true&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AGE-00&layout=compact&theme=dracula)
 
 <!--
 **AGE-00/AGE-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

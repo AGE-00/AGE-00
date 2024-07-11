@@ -1,21 +1,13 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 # **About me**  
-  
-
 - I am learning Python etc. for research purposes.  
-  
-
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Studying  
+### Studying 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  

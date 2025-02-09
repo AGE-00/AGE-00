@@ -1,3 +1,7 @@
-# My GitHub Works
-
-<img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=AGE-00&show_icons=true&theme=github_dark_dimmed" height="200px"> <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGE-00&layout=compact&theme=github_dark_dimmed" height="200px">
+## Hi there! 👋
+hello
+## Skills & Technologies
+[![My Skills](https://skillicons.dev/icons?i=anaconda,github,vscode,python&perline=8)](https://skillicons.dev)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AGE-00&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGE-&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

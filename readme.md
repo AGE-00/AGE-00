@@ -1,3 +1,5 @@
+
+![](https://komarev.com/ghpvc/?username=AGE-00&color=blue)
 ## Hi there! 👋
 hello
 ## Skills

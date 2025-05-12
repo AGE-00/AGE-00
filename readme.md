@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AGE-00&color=blue&style=plastic)
 ## Hi there! 👋
-hello
+少しずつやってなかったりします
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=anaconda,github,vscode,python&perline=8)](https://skillicons.dev)
 ## GitHub Stats

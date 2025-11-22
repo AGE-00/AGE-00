@@ -7,5 +7,5 @@ I can programme just a little bit
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=anaconda,github,vscode,python&perline=8)](https://skillicons.dev)
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AGE-00&show_icons=true&theme=white)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AGE-00)](https://github.com/AGE-00/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGE-00&layout=compact&theme=dark)](https://github.com/AGE-00) 

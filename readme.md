@@ -5,7 +5,10 @@ I can programme just a little bit
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1078688401932431420?theme=dark)](https://discord.com/users/1078688401932431420)
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=anaconda,github,vscode,python&perline=8)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js&perline=8)](https://skillicons.dev)
+### Tools & Services
+[![My Skills](https://skillicons.dev/icons?i=anaconda,github,vscode,supabase&perline=8)](https://skillicons.dev)
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AGE-00)](https://github.com/AGE-00/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGE-00&layout=compact&theme=dark)](https://github.com/AGE-00) 
+![GitHub stats](profile/stats.svg)
+![Top Langs](profile/top-langs.svg)
